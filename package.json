@@ -1,0 +1,15 @@
+{
+  "name": "meet-live-translate-case-study",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Recognising the captions in a page that offers no API for them, and a recorder that cannot take the microphone",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "Aleksejs Moisejevs",
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

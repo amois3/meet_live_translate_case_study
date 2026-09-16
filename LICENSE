@@ -1,0 +1,20 @@
+Copyright (c) 2026 Aleksejs Moisejevs
+
+This repository is published as a public technical case study, for evaluation,
+review and discussion.
+
+Permission is granted to read this material and to run it locally for the
+purpose of evaluating it. No licence is granted to redistribute it, to publish
+derivative works from it, or to use it in a product or service.
+
+It is not a distribution of the private Meet Live Translate product and
+contains no product source, prompts, credentials, infrastructure or meeting
+data. It is not affiliated with, endorsed by, or connected to Google. "Google
+Meet" is a trademark of Google LLC and is used here only to name the product
+this work interoperates with.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
