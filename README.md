@@ -159,3 +159,7 @@ A public technical case study and reference core, not a distribution of the
 private product, and not affiliated with or endorsed by Google. Contains no
 product source, prompts, credentials or meeting data. Published for review and
 discussion; see [LICENSE](LICENSE).
+
+---
+
+The rest of this work, and how it is built: [moisejevs.com](https://moisejevs.com)
